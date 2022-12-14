@@ -34,8 +34,6 @@ public class StartMenu : MonoBehaviour
     /*
      * Wechselt es die Szene
      */
-    serialize.delete_file();
-
     GameObject.Find("SceneManager").GetComponent<SceneChange>().NextScene_activate = true;
   }
 
