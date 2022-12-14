@@ -3,7 +3,7 @@
 ## Installation
 ### How to play the game
 
- 1. Download th zip [here](https://github.com/JoelErni/IPT_4.1-Unity/releases/tag/IPT_4.1)
+ 1. Download the latest zip [here](https://github.com/JoelErni/IPT_4.1-Unity/releases)
  2. Extract the files
  3. Execute the .exe file
  
