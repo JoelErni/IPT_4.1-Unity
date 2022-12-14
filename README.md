@@ -6,6 +6,8 @@
  1. Download th zip [here](https://github.com/JoelErni/IPT_4.1-Unity/releases/tag/IPT_4.1)
  2. Extract the files
  3. Execute the .exe file
+ 
+ > Important: Make sure that the path exists: C:\Users\'user'\AppData\LocalLow\DefaultCompany\IPT 4_1 Basis\SaveData
 
 ### How to downlaod and open the Project
  1. [Download the repository](https://github.com/JoelErni/IPT_4.1-Unity/archive/refs/heads/main.zip) as a zip
