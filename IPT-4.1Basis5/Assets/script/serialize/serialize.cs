@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.IO;
 using UnityEngine.SceneManagement;
 
 public class serialize : MonoBehaviour
@@ -15,6 +16,15 @@ public class serialize : MonoBehaviour
      */
     if (LoadOnStart)
       load_data();
+
+    /*
+     * Erstellt den Pfad für die SaveFiles, falls nicht vorhanden
+     */
+    string dir = Application.persistentDataPath + "/SaveData/";
+    if (!Directory.Exists(dir))
+    {
+      Directory.CreateDirectory(dir);
+    }
   }
 
   public void reset_data()

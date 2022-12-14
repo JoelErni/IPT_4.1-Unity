@@ -394,8 +394,6 @@
 "Assets/script/PlayerLocomotion.cs"
 "Assets/script/PlayerManager.cs"
 "Assets/script/PlayerSound.cs"
-"Assets/script/player_movement.cs"
-"Assets/script/player_rotation.cs"
 "Assets/script/ResetBool.cs"
 "Assets/script/ResetIsJumping.cs"
 "Assets/script/SceneChange.cs"
